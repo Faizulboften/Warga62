@@ -66,12 +66,10 @@ echo $ij "
 ░█─░█ ░█▀▀▀ ░█░█░█ ░█▄▄█ ─▀▀▀▄▄ ░█▄▄█ 
 ░█▄▄▀ ░█▄▄▄ ░█▄▀▄█ ░█─░█ ░█▄▄▄█ ░█─░█
 
-------------------------------------
+\033[31;1m------------------------------------
   \033[31;1m ●DATE : 24/oktober/2020
 ------------------------------------"
-          
-            
-
+                      
 echo $ij "
 ═════════════════════════════════════
      [ ●MEMBUKA SITUS WARGA +62 ● ]
@@ -90,7 +88,8 @@ sleep 5
 echo $me "✔MEMBUKA SITUS SALDA"
 sleep 5
 echo $ij "DONE"
-termux-open-url "https://salda.ws/video.php?q=Bokep+indo+viral+2020"
+sleep 5
+termux-open-url "https://nontonbokep.cam/"
 cd Warga62
 sh gembel.sh
 fi
@@ -119,7 +118,7 @@ fi
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
-echo $cyan  "Subscribe Channel Htc Ctr Gaming "
+echo $me "Subscribe Channel Htc Ctr Gaming "
 sleep 1
 exit
 fi
