@@ -50,7 +50,7 @@ echo " \033[31;1m    ▇▇▇▇▇▇▇"
 echo "\033[37;1m     ▇▇▇▇▇▇▇"
 echo "\033[31;1mSELAMAT DATANG \033[37;1mDi Tools Faizul Kontol lu"
 sleep 1
-echo -n "My Name Is?:"
+echo -n "NAMA ANDA SOB:"
 read nama;
 sleep 3
 echo "Hallo salam kenal Sad \033[31;1m[$nama]"
@@ -64,7 +64,7 @@ clear
 echo $ij " 
 ░█▀▀▄ ░█▀▀▀ ░█──░█ ─█▀▀█ ░█▀▀▀█ ─█▀▀█ 
 ░█─░█ ░█▀▀▀ ░█░█░█ ░█▄▄█ ─▀▀▀▄▄ ░█▄▄█ 
-░█▄▄▀ ░█▄▄▄ ░█▄▀▄█ ░█─░█ ░█▄▄▄█ ░█─░█"
+░█▄▄▀ ░█▄▄▄ ░█▄▀▄█ ░█─░█ ░█▄▄▄█ ░█─░█
 
 ------------------------------------
 echo $me " ●DATE : 24/oktober/2020
